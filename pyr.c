@@ -25,4 +25,6 @@ int main(void)
   }
   else 
     printf("Arrete de rentrer des cochonneries !");
+  
+   return (0);
 }
